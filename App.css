@@ -1,0 +1,66 @@
+.main_wrapper {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;padding: 0 2.5rem;
+}
+body{
+  background-color:rgb(157, 163, 242);
+}
+
+
+.wrapper {
+  width: 22rem;
+    padding: 1rem;
+    border: 1px solid #cbadad;
+    border-radius: 1.5rem;
+    box-shadow: 6px 6px 18px #816b6b;
+    background-color: whitesmoke;
+
+}
+
+.wrapper img {
+  height: 5rem;
+}
+
+.countryName {
+  color: #472222;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #ffe2e7;
+    background-size: 10px;
+    padding: 0.5rem;
+    border: 1px solid #f99999;
+    margin-top: 5%;
+    border-radius: 0.5rem;
+
+
+
+}
+
+.Font_Bold {
+font-weight:bold;
+padding: 0.5rem;
+
+}
+
+.Font_normal{
+  font-weight:500
+}
+/* 
+these are class name independantly, u can aaply any css u want */
+
+.Poputation{
+  color: green;
+}
+
+.Region{
+  color: blueviolet;
+}
+
+.Area{
+
+}
+
+.Capital{
+
+}
